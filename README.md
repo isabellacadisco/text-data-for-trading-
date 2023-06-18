@@ -9,7 +9,7 @@ The project aims to leverage the use of large language models to perform a senti
 
 * `News_scraping.ipynb` contains the scraping of news from the [forexrate.co.uk](http://www.forexrate.co.uk/) website.
 
-* 'Sentiment_analysis.ipynb' exploits the classifier produced to extract the sentiment for the downloded news and then aggregate it for each date.
+* `Sentiment_analysis.ipynb` exploits the classifier produced to extract the sentiment for the downloded news and then aggregate it for each date.
   
 * `Forecast.ipynb` contains different forecast approaches of the EURUSD exchange value expoiting the [Prophet](https://facebook.github.io/prophet/) model. The data retrieved with the sentiment analysis were used to enrich the model.
 
